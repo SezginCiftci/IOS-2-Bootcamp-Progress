@@ -1,0 +1,26 @@
+# Proje 01: Taş Kağıt Makas Oyunu
+
+Bu ödevde sizlerden geçtiğimiz Nesne Tabanlı Programlama dersinde gördüğümüz yapıları daha iyi kavramak için bir taş kağıt makas oyunu yapmanızı isteyeceğim. 
+
+## Sorumluluklar:
+
+1. Öncelikle oyunun çıktısını log'da görmeniz yeterli. Yani bir arayüz yapmanıza gerek yok.
+<br>
+2. Oyunumuz bilindik taş kağıt makas oyunu ve rakip bilgisayar.
+<br>
+3. Bilgisayar size taş kağıt makas içinden random bir tanesini vermeli ve siz de kendi seçtiğiniz elemanı ister readline() ile log'dan, isterseniz doğrudan kod içerisinden vererek bilgisayarın verdiği eleman ile kıyaslayabilmelisiniz.
+<br>
+4. Bu kıyasın sonucunda log'da sonucu (kaybettiğinizi veya kazandığınızı) görebiliyor olmanız gerekiyor.
+<br>
+5. Bunları Playground'da veya Comand Line kısmında yapabilirsiniz. 
+<br>
+6. Bitirdikten sonra kodlarınızı kendi Github hesabınıza commit etmeyi unutmayalım (Reponun public olduğundan da emin olalım). Sonrasında doğrudan linki paylaşabilirsiniz.
+<br>
+
+*Projenizi tamamlamak için TA ve Instructor'dan gerekli yerlerde destek almayı unutmayın!*
+
+## <a name="2"></a>Ödev teslim tarihi: 19 Haziran Pazartesi 18:00
+
+
+
+
