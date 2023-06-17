@@ -11,6 +11,8 @@
 <br>
 3. Arayüz olmayacağı için Playground veya Comand Line kullanabilirsiniz.
 <br>
+4. Bitirdikten sonra kodlarınızı kendi GitHub repolarınıza atabilirsiniz.
+<br>
 
 ## <a name="2"></a>Ödev teslim tarihi: 19 Haziran Pazartesi 18:00
 
