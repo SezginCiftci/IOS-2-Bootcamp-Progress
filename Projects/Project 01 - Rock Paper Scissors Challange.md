@@ -4,6 +4,7 @@
 
 ## Sorumluluklar:
 
+<br>
 1. Oyun bilindik taş kağıt makas oyunu olacak ve bilgisayara karşı oynanacak.
 <br>
 2. Program size taş kağıt makas elemanlarında birini rastgele atamalı ve siz de ister readline() ile log'dan, ister koddan bir eleman seçerek, programa karşı kazanıp kaybettiğinizi log'a bastırabilmelisiniz.
