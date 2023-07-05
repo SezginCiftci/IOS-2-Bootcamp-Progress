@@ -19,5 +19,9 @@ Bu ödevde daha önce yaptığınız taş kağıt makas uygulamasındaki mantı�
 <br>
 7. Önceki ödevde olduğunu gibi geliştirmenizi bitirdikten sonra GitHub hesabınıza atıp linkini paylaşabilirsiniz.
 <br>
+8. Geliştirmede fikir olması açısından aşağıdaki örnekten yararlanabilirsiniz.
+<br>
+
+<img src="https://github.com/SezginCiftci/IOS-2-Bootcamp-Progress/blob/main/Projects/Resources/RockPaperScissor.gif" width="200">
 
 ## <a name="2"></a>Ödev teslim tarihi: 9 Temmuz Pazar 20:00
