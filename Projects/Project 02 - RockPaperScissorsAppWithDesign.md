@@ -21,6 +21,7 @@ Bu ödevde daha önce yaptığınız taş kağıt makas uygulamasındaki mantı�
 <br>
 8. Geliştirmede fikir olması açısından aşağıdaki örnekten yararlanabilirsiniz.
 <br>
+<br>
 
 <img src="https://github.com/SezginCiftci/IOS-2-Bootcamp-Progress/blob/main/Projects/Resources/RockPaperScissor.gif" width="200">
 
