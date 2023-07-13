@@ -24,6 +24,6 @@ Bu ödevde sizlerden iki ekranlı, hayvanların listelendiği basit bir proje ya
 [Videolar](https://github.com/SezginCiftci/IOS-2-Bootcamp-Progress/blob/main/Projects/Resources/Wikipedia%20Likns.md)
 [WebView için linkler](https://github.com/SezginCiftci/IOS-2-Bootcamp-Progress/blob/main/Projects/Resources/Videos.zip)
 
-<img src="https://github.com/SezginCiftci/IOS-2-Bootcamp-Progress/blob/main/Projects/Resources/RockPaperScissor.gif" width="200">
+<img src="https://github.com/SezginCiftci/IOS-2-Bootcamp-Progress/blob/main/Projects/Resources/AnimalInfos.gif" width="200">
 
 ## <a name="2"></a>Ödev teslim tarihi: 16 Temmuz Pazar 20:00
