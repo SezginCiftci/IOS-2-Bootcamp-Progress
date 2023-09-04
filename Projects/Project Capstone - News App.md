@@ -9,11 +9,11 @@ Final Projenizde sizlerden bir haber uygulaması isteyeceğim.
 <br>
 2. Uygulama açılışında bir Onboarding ekranı - veya ekranları - olması gerekiyor. Burada ne olması gerektiği doğrudan size kalıyor. Bir video da oynatabilirsiniz veya PageControl yapısı olan sayfalar da koyabilirsiniz. Ama temelde burada kullanıcının bu uygulamada ne kullacağı bilmesi gerekiyor. 
 <br>
-3. Sonrasında kullanıcı burayı geçtikten sonra bir giriş ekranı olmalı. Burada Firebase ile login işlemi uygulamanız gerekiyor. Eğer kullanıcı kayıtlı değilse kayıt olmalı veya kayıtlı ise doğrudan bilgileriyle giriş yapabilmeli. 
+3. Sonrasında kullanıcı burayı geçtikten sonra bir giriş ekranı olmalı. Burada Firebase ile login işlemi uygulamanız gerekiyor. Eğer kullanıcı kayıtlı değilse kayıt olmalı veya kayıtlı ise doğrudan bilgileriyle giriş yapabilmeli. - Kullanıcı buradan ana ekrana gelecektir. Burada kullanıcı bir kez login ve onboarding'i geçtikten sonra bir daha burayı görmemeli, doğrudan uygulamanın ana kısmına gelebilmeli. - 
 <br>
 4. Bundan sonra artık kullanıcı uygulamanın ana kısmına gelecek. Burada en az 3 tane tab olan bir tabbar olacak. İlk tab'de doğrudan news api'den çektiğiniz haberleri listeleyeceksiniz.
 <br>
-5. İkinci ekranımızda kullanıcı kaydettiği haberleri görecek.  
+5. İkinci ekranımızda kullanıcı kaydettiği haberleri görecek. Storage olarak ne kullanacağınızı siz seçebilirsiniz. - UserDefaults, CoreData, Sqllite -
 <br>
 6. Üçüncü ekranda da kullanıcı ile ilgili bilgiler olan bir profil ekranı bulunacak. - Burada uygulama ayarları bulunabilir bunun yanında. Mode veya dil seçimleri yaptırabilirsiniz kullanıcıya - 
 <br>
